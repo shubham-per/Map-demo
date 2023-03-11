@@ -598,16 +598,194 @@ void Swich()
 			{
 		case 'a':
 			Fix();
-
 			setcolor(LIGHTCYAN);
 			LoveGarden();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Love Garden");
 			setcolor(WHITE);			
 			break;
 		case 'b':
 			Fix();
-
 			setcolor(LIGHTCYAN);
 			Whitehouse();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Office of the dean");
+			setcolor(WHITE);			
+			break;
+		case 'c':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Architecture();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Department of Architecture");
+			setcolor(WHITE);			
+			break;
+		case 'd':
+			Fix();
+			setcolor(LIGHTCYAN);
+			MasterHostel();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"M.S.C Hostel");
+			setcolor(WHITE);			
+			break;
+		case 'e':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Hydrolab();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Hydrolysis lab");
+			setcolor(WHITE);			
+			break;
+		case 'f':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Cafe();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Campus Cafe");
+			setcolor(WHITE);			
+			break;
+		case 'g':
+			Fix();
+			setcolor(LIGHTCYAN);
+			RoboticsClub();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Robotics Club");
+			setcolor(WHITE);			
+			break;
+		case 'h':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Electronic();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Department of Electrical, Electronics & Computer Engineering");
+			setcolor(WHITE);			
+			break;
+		case 'i':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Cit();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"CIT Building");
+			setcolor(WHITE);			
+			break;
+		case 'j':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Library();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Library Block");
+			setcolor(WHITE);		
+			break;
+		case 'k':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Ictc();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"ICTC Building");
+			setcolor(WHITE);			
+			break;
+		case 'l':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Workshop();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Workshop");
+			setcolor(WHITE);			
+			break;
+		case 'm':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Mechanical();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Department of Mechanical Engineering");
+			setcolor(WHITE);			
+			break;
+		case 'n':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Civil();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Department of Civil Engineering");
+			setcolor(WHITE);			
+			break;
+		case 'o':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Chemical();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Department of Applied Science and Chemical engineering");
+			setcolor(WHITE);			
+			break;
+		case 'p':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Incubation();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Incubation, Innovation and Entrepreneurship Center");
+			setcolor(WHITE);			
+			break;
+		case 'q':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Zero();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Zero Power Building");
+			setcolor(WHITE);			
+			break;
+		case 'r':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Heavy();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Heavy Lab");
+			setcolor(WHITE);			
+			break;
+		case 's':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Aero();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Department of Aerospace engineering");
+			setcolor(WHITE);			
+			break;
+		case 't':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Ground();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Play Groung");
+			setcolor(WHITE);			
+			break;
+		case 'v':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Basket();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Basket Ball Court");
+			setcolor(WHITE);			
+			break;
+		case 'w':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Boys();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Boys Hostel");
+			setcolor(WHITE);			
+			break;
+		case 'y':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Girls();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Girls Hostel");
+			setcolor(WHITE);			
+			break;
+		case 'z':
+			Fix();
+			setcolor(LIGHTCYAN);
+			Staff();
+			settextstyle(7,0,2);
+			outtextxy(10,375,"Staff Quater");
 			setcolor(WHITE);			
 			break;
 		default:
