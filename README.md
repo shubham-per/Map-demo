@@ -1,4 +1,4 @@
-#A guide to IOE Pulchowk
+###A guide to IOE Pulchowk
 
 miniproject developed by team AXC.
 A COURSE PROJECT SUBMITTED TO THE DEPARTMENT OF ELECTRONICS AND
