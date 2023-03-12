@@ -6,6 +6,13 @@ COMPUTER ENGINEERING IN PARTIAL FULFILLMENT OF THE REQUIREMENTS
 FOR THE PRACTICAL COURSE ON COMPUTER PROGRAMMING [CT 452]
 
 
+## Authors
+
+- [@shubhamranabhat](https://github.com/shubham-per)
+- [@Sauryashrestha](https://github.com/Saurya39)
+
+
+
 ## License
 
 [GPL-3.0](https://github.com/shubham-per/Map-mini-project/blob/main/LICENSE)
